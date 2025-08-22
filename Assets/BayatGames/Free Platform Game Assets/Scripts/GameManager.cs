@@ -8,7 +8,6 @@ public class GameManager : MonoBehaviour
 {
     public Image imageMenu;
     public Button continueGame;
-    private Button continueGame1;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
